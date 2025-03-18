@@ -1,2 +1,2 @@
 Flask==2.2.5
-pytubefix==0.0.1  # Replace with the correct version
+pytubefix
